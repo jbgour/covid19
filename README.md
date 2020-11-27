@@ -1,4 +1,4 @@
 # covid19
-!!!Not a scientific repo!!! just sharing some modelisations
+just sharing some modelisations, I'm not an expert ;)
 
 source: https://sciencetonnante.wordpress.com/
